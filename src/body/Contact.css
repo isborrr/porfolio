@@ -1,0 +1,42 @@
+.ContactInfo{
+width:60%;
+margin: auto;
+margin-top: 15px;
+padding: 1rem;
+box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+  rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 17, 255, 0.596) 0px 4px 6px,
+  rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(22, 5, 255, 0.356) 0px -3px 5px;
+  border-radius:10px;
+  /* background-image: url("../Images/background.jpeg"); */
+  /* background-repeat:round; */
+  font-size:15px;
+  color: rgb(0, 0, 0);
+  border: 5px solid rgb(34, 36, 146);
+  font-size: 45px;
+}
+.CenterContactInfo{
+  width: 65%;
+  display: inline-table;
+  align-self: center;
+  padding: 10px;
+  font-size: 25px;
+}
+.ContactIconPicture{
+  width: 50px;
+  height: 50px;
+  padding: 5px;
+  margin-right: 1rem;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+  rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(2, 2, 2, 0.596) 0px 4px 6px,
+  rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.356) 0px -3px 5px;
+  border-radius:10px;
+}
+
+.FlexContactInfo{
+  width: 80%;
+  margin-bottom: 2rem;
+  display: flex;
+}
+.PhoneNumber, .EmailAdress{
+  align-self: center;
+}

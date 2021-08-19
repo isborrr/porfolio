@@ -1,0 +1,111 @@
+.ProfilePicture {
+  position: absolute;
+  top: 0;
+  left: 45%;
+  /* margin: 1rem; */
+  margin: auto;
+  width: 120px;
+  height: 160px;
+  border-radius: 50%;
+  z-index: 1;
+  box-shadow: -5px -5px 30px 5px rgb(0, 0, 0), 5px 5px 30px 5px rgb(0, 0, 0);
+  /* box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px; */
+
+}
+.Profile-BgrdCover{
+  background-color: rgba(104, 104, 104, 0.87);
+}
+.Profile-Bgrd {
+  width: 400px;
+  height: 160px;
+  margin: auto;
+  margin-top: 1rem;
+  background-image: url("../Images/ProfileBgrd.png");
+  opacity: 0.5;
+  background-size: contain;
+  border-radius: 20%;
+}
+.Header {
+  margin-top: -1rem;
+  width: 100%;
+  height: fit-content;
+  background-color: #1843c1;
+  background-image: url("../Images/bgrd.png");
+  background-repeat:round;
+  background-size:60%;
+
+}
+.NavbarContain{
+  /* background-image: url("../Images/bgrd.png"); */
+  background-image:none;
+  background-repeat:round;
+
+}
+.Navbar {
+  margin: auto;
+  /* margin-top: 5px; */
+  width:fit-content;
+  border: 10px solid rgb(0, 0, 0);
+  /* border-radius: 5%; */
+  background-color: rgb(41, 39, 39);
+  /* rgb(90, 57, 4); */
+ padding-left: 20px;
+ padding-right: 20px;
+ padding-bottom: 20px;
+ opacity: 0.95;
+}
+.welcomeText{
+    color: aliceblue;
+    margin-top: -5%;
+
+}
+.welcomeText h2{
+    font-size: 50px;
+}
+.welcomeText button{
+    font-size: 20px;
+    background-image: url("../Images/background.jpeg");
+    background-repeat:round;
+}
+.navBtn{
+    margin: 5px;
+    margin-top: 10px;
+}
+
+
+
+
+
+/*
+.ProfilePicture {
+  position: absolute;
+  top: 0.5%;
+  left: 45%;
+  margin: 1rem;
+  margin: auto;
+  width: 140px;
+  height: 190px;
+  border-radius: 50%;
+}
+.Profile-Bgrd {
+  width: 400px;
+  height: 200px;
+  margin: auto;
+  margin-top: 1rem;
+  background-image: url("../Images/ProfileBgrd.png");
+  background-size: contain;
+  border-radius: 20%;
+}
+.Head {
+  margin-top: -1rem;
+  width: 100%;
+  height: fit-content;
+  background-color: #1843c1;
+}
+.Navbar {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+ */

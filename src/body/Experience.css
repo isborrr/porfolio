@@ -1,0 +1,77 @@
+
+.exprience,.WorkExperience1, .WorkExperience2{
+
+    text-align: start;
+    width:60%;
+  margin: auto;
+  margin-top: 15px;
+  padding: 1rem;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 17, 255, 0.596) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(22, 5, 255, 0.356) 0px -3px 5px;
+    border-radius:10px;
+    /* background-image: url("../Images/background.jpeg"); */
+    /* background-repeat:round; */
+    font-size:15px;
+    color: rgb(0, 0, 0);
+}
+.exprience,.WorkExperience1, .WorkExperience2{
+    margin: auto;
+    margin-top: 2rem;
+    width:fit-content;
+    border: 5px solid rgb(34, 36, 146);
+    padding: 10px;
+}
+.WorkExperience1, .WorkExperience2{
+    width: 80%;
+}
+.exprience{
+    display:flex;
+}
+.PexprienceDetail{
+    margin-bottom: 4rem;
+    padding: 10px;
+
+}
+
+#PSummary,#PExprience{
+ width:fit-content;
+text-align: left;
+padding: 1rem;
+/* margin-top: 0; */
+margin: auto;
+margin-top: 3rem;
+margin-bottom: 1rem;
+border-radius: 7px;
+background-image: url("../Images/background.jpeg");
+box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgb(0, 0, 0) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgb(0, 0, 0) 0px -3px 5px;
+    color: rgb(251, 251, 251);
+}
+
+
+.Job{
+    padding: 3px;
+    background-image: url("../Images/background.jpeg");
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+        rgba(0, 0, 0, 0.12) 0px -12px 30px, rgb(0, 0, 0) 0px 4px 6px,
+        rgba(0, 0, 0, 0.17) 0px 12px 13px, rgb(0, 0, 0) 0px -3px 5px;
+        color: rgb(251, 251, 251);
+}
+.JobDetail{
+    display: flex;
+}
+.JobDetailText{
+    padding: 2rem;
+}
+.Job1DetailPic{
+    width: 250px;
+    top: 0;
+}
+.flexJB{
+    display:flex;
+}
+.flexJBComp{
+    width: 80%;
+}

@@ -1,0 +1,90 @@
+.ProfileDescription , .Education{
+  width:60%;
+  margin: auto;
+  margin-top: 15px;
+  padding: 1rem;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 17, 255, 0.596) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(22, 5, 255, 0.356) 0px -3px 5px;
+    border-radius:10px;
+    /* background-image: url("../Images/background.jpeg"); */
+    /* background-repeat:round; */
+    font-size:15px;
+    color: rgb(0, 0, 0);
+    border: 5px solid rgb(34, 36, 146);
+}
+/* .ProfileDescription{
+    text-align: start;
+}
+.ProfileDescriptionText{
+    margin: auto;
+    width:fit-content;
+    border: 3px solid green;
+    padding: 10px;
+} */
+.Education{
+    margin-top: 35px;
+}
+#Aboutme , #Education{
+width:fit-content;
+text-align: left;
+padding: 1rem;
+margin-top: 0;
+border-radius: 7px;
+background-image: url("../Images/background.jpeg");
+box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgb(0, 0, 0) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgb(0, 0, 0) 0px -3px 5px;
+    color: rgb(251, 251, 251);
+
+}
+#Education{
+margin:auto;
+}
+.EducationSubtitles{
+    background-image: url("../Images/background.jpeg");
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+        rgba(0, 0, 0, 0.12) 0px -12px 30px, rgb(0, 0, 0) 0px 4px 6px,
+        rgba(0, 0, 0, 0.17) 0px 12px 13px, rgb(0, 0, 0) 0px -3px 5px;
+        color: rgb(251, 251, 251);
+}
+.IconPicture{
+    width: 200px;
+    height: 200px;
+    margin-left: 12px;
+    margin-top: 5px;
+    padding: 5px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 17, 255, 0.596) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(22, 5, 255, 0.356) 0px -3px 5px;
+    border-radius:10px;
+}
+.FlexJustContain{
+    justify-content: center;
+    display:block;
+}
+
+
+
+/*
+.ProfileDescription {
+    width: 500px;
+    margin: auto;
+    margin-top: 5px;
+    padding: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+      rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 17, 255, 0.596) 0px 4px 6px,
+      rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(22, 5, 255, 0.356) 0px -3px 5px;
+      border-radius:10px;
+      background-color: rgb(251, 251, 251);
+  }
+  .ProfileDescriptionWrap{
+   /* margin: auto;
+   border-width: 200px;
+   border-image: url("../Images/background.jpeg");
+   width:fit-content;
+   /* background-image: url("../Images/background.jpeg"); */
+   /* background-repeat:round; */
+   /* opacity: 20%;
+  }
+   */
